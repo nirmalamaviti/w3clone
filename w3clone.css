@@ -47,7 +47,7 @@
     border-radius:15px;
     justify-content: center;
     align-items: center;
-    padding-left:18%;
+    padding-left:15%;
 }
 .naaaaav{
     position: fixed;
@@ -213,7 +213,7 @@
 }
 .space{
     float: right;
-    margin-top: -20%;
+    margin-top: -15%;
     margin-right: 12%;
 }
 /* ==============================================nav===== */
@@ -326,10 +326,10 @@
     display: grid;
     grid-template-columns: repeat(2,550px);
     grid-template-rows: auto;
-    justify-content: space-evenly;
-    row-gap:5%;
-    padding:2% 2%;
     text-align: center;
+    gap:6%;
+    padding-left: 7%;
+    
 
 }
 .boxx{
